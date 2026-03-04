@@ -1,3 +1,3 @@
 # digital-writing-folio
-Digital Writing folio. Really important, very key place.
+Digital Writing folio. Very important, very key.
 
