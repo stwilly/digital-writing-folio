@@ -6,3 +6,4 @@ _Tarako Gorge_ was cute but kind of merely novel to me. Great idea, well execute
 ## What do I expect from this class?
 I think my only expectation is that I'm exposed to a way of being for literature that I haven't considered or seen before (good start!). Keen to get into coding as well!
 # Week 2
+*non-trivial effort*, *Three Generations of e-lit*
