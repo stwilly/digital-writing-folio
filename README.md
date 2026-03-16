@@ -10,4 +10,5 @@ I've tried experimenting with not coming up with a structure for the whole of a 
 Re: stickies, I find it useful to have ideas staring at me, I do the same with my uni assignments. Though generally my meatier ideas will graduate from being a sentence/word on a slice of paper, so the disparate stickies by themselves don't represent too much on their own. I use them for structuring as well, I find them less permanent than writing on a sheet of paper or typing it—they demand less, no need to worry about what comes first or last on a Post-It and you can only fit so much on them.
 
 **- What are curious about writing in the digital environment?**
+
 I usually enjoy weird stuff someway or another, e-lit feels very promising in that regard.
