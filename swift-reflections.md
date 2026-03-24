@@ -50,3 +50,18 @@ It feels very tricky, give me ten years and I might have a better stance. It fee
 When it comes to the replacement of creative endeavour or emplyment, I think AI is just highlighting the coercive, softly homicidal nature of capitalism. Why should artists need to sell their work for money, and by extension, for shelter, for food: to live, basically. Why should anyone? It isn't 1950, it isn't 1800. How much are the structures of capitalism actually inevitable and unoverthrowable?
 
 There's also this feeling of complicity when I use AI. I need to do some research to find the most ethical corporation out there (oxymoron), but then, I have an Instagram account, a Facebook account, I buy clothes from shitty retailers, so many of the ways I enjoy living where I do is predicated on the exploitation of _others_. Is this different? It may be a drop in the ocean, but the ocean is made of drops, and it is another drop.
+
+# Week 3
+## Wednesday
+### Reflect on your own relationship to the ubiquitous digital platforms of daily life. How do you currently position yourself in relation to technology in your creative writing pratice?
+
+Begrudging tolerance. There's an important aspect to that relationship where I am aware that I don't own anything digitally, all of my digital interactions are conducted through these mega-corporate templates, but no action has happened. All the time I'm talking to people about hating Instagram and using too much and how awful and uncontributive it is to the general overall quality of life we enjoy. But it feels like being trapped with a million other people who don't want to eat each other, but understand that everyone else will eat the ones that aren't cannibals--so everyone eats each other. Because people are on these platforms, that's where the action is, so to turn away is just to deprive yourself of that. Of course, if everyone did, then the power floods from the hands of its corporate owners, but... people don't want to be eaten.
+
+## Thursday
+### Discuss Jenny's second GenAI/'JenAI' blog post and then reflect upon the importance of tracking tools of making (e.g., for iterative purposes, for troubleshooting, as research capture situated in a particular time (since tech evolves so quickly), to network/pool knowledge with peers, to situate ideas in relation to the field).
+
+A large benefit of working with paper and pens, simple word processors, is that there's not so much about the tools themselves that needs to be recorded, project to project. When it comes to the digital landscape, this becomes more important, between updating/changing technology, difficulty in resuming work on a project that perhaps has a higher bar to entry by nature of its complexity/inaccessibility skill-wise, the recording of a process and therefore the tools used becomes vital. 
+Especially when it comes to the digital writing space, where innovation feels so much the focus of the form, sharing experimental successes and failures with other practitioners serves the field, so that innovation may beget more innovation, failure might beget success. 
+
+# Week 4
+## WED
