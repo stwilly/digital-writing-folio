@@ -51,7 +51,7 @@ When it comes to the replacement of creative endeavour or emplyment, I think AI 
 
 There's also this feeling of complicity when I use AI. I need to do some research to find the most ethical corporation out there (oxymoron), but then, I have an Instagram account, a Facebook account, I buy clothes from shitty retailers, so many of the ways I enjoy living where I do is predicated on the exploitation of _others_. Is this different? It may be a drop in the ocean, but the ocean is made of drops, and it is another drop.
 
-I wonder if the next big cultural shift might be a recession to older forms, rather than an ambracing of AI. The AI-first school feels very, step into the bright future, progress is a straight line kind of thing. It feels uncertain as to whether that's the direction everything is moving.
+I wonder if the next big cultural shift might be a recession to older forms, rather than an ambracing of AI. The AI-first school feels very, step into the bright future, progress is a straight line kind of thing. It feels uncertain as to whether that's the direction everything is moving. Then again, maybe rather than regressing (or not regressing, re-embracing?) older forms, maybe people won't entrench deeper into the modes and ways of recent history and will be inspired to embrace something totally new. But then again-again, AI is hardly a representation of anything new in the scheme of our capital-digital paradigm.
 
 # Week 3
 ## Wednesday
