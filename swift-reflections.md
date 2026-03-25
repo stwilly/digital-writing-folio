@@ -67,3 +67,7 @@ Especially when it comes to the digital writing space, where innovation feels so
 
 # Week 4
 ## WED
+### Look at the diagrams on p.93 of (Aarseth 1997) reading and the categories: author; narrator; narratee; reader. Look at the diagrams on p. 103 and 104 of (Ryan 2006) reading and the categories of internal v external interactivity and exploratory v ontological interactivity. Analyse the architecture (layers, structures, interactions) of _Untitled Document_ by Tegan Webb in these terms.
+
+Author; Narrator; Narratee; Reader:
+Internal v External, Exploratory v Ontological interactivity:
