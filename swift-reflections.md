@@ -74,3 +74,4 @@ External-exploratory interactivity in . The user is situated outside the world w
 ## THU
 ### Situate your potential digital work both at a personal level and within a broader context/politics.
 
+I really don't even have an inkling of an idea yet, and find it hard to analyse and reflect on something that doesn't exist yet anyway. That said, I've noticed that I've been resisting the urge to recreate a chance-based branching narrative, a la _Disco Elysium_ or some other CRPG. Doesn't feel innovative or creative enough, which I would like to navigate during the process of creating my digital work. I will probably gravitate toward the increased capability of the digital space to play around linguistically, as well as potential readers' perhaps more open expectations v printed media.
