@@ -70,3 +70,7 @@ Unless the narrattee can be understood as the reader, in which case perhaps it c
 
 #### Internal v External, Exploratory v Ontological interactivity:
 External-exploratory interactivity in . The user is situated outside the world with no effect on the narrative/fictional world. The user is guided through thoughts and memories, the order in which they are explored breaks the piece, revealing information out of order. I'm stuck as to which architecture model the piece best conforms to. It has the menu navigation, unspooling element of the sea-anemone, but you can't return to the 'main menu' in one jump from any point, and each branch leads back to the main node (the three untitled documents), with the final one leading to the title page. There's also an intended sequence narratively. You can jump right to the end, which makes it seem flowcharty.
+
+## THU
+### Situate your potential digital work both at a personal level and within a broader context/politics.
+
