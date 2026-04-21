@@ -79,7 +79,7 @@ I really don't even have an inkling of an idea yet, and find it hard to analyse 
 # Week 6
 ## Progress Audit 15/4
 ### What is the early concept? 
-I'm still kicking around a few ideas, but nothing's really grabbed me yet. I think it'll be a matter of running with something I at least have some vision for but I'd like to find som inspiration if I can.
+I'm still kicking around a few ideas, but nothing's really grabbed me yet. I think it'll be a matter of running with something I at least have some vision for but I'd like to find some inspiration if I can.
 
 One is very game-y, it gives the reader a bestiary entry for a dragon, information from which is essential when it comes time to fight it. I don't know about this, the most I can think of for this for the moment is a list of choices of how to respond to the dragon's behaviour, half of which end in death, basically. I'm not very hot on this one.
 
