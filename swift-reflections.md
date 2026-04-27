@@ -103,6 +103,6 @@ It's tricky—so much of celebrated e-lit seems predicated on novelty, more akin
 
 
 ## THU
-What is the purpose of your piece? Was there an inspiration that brought it about?
+**What is the purpose of your piece? Was there an inspiration that brought it about?
 What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?
-What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?
+What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?**
