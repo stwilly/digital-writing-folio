@@ -91,3 +91,18 @@ I'm leaning towards this one, I think.
 2. Based on that structure, I'll need to map out the narrative. **(do by 16-17/4)**
 3. Start work on piece, get early prototype with min 4 screens coded **(do by 19/4)**
 
+# Week 7
+## WED
+**Last week you defined three tasks you needed to do. How did these go? Did you complete them and if so where did they lead you in your development process? If not, why not?**
+I did get waylaid by another idea that occurred to me and tried to make that work before realising the scope I'd prefer for that probably doesn't match the requirements of the class, and not ultimately having a cohesive idea to pursue. Otherwise, something of a mental health dip and subsequent poor time management has skewed my progress. 
+I haven't thought of an interesting way for the progression of the narrative to follow the mowing of a lawn; maybe it's unavoidable that they would follow one another by merit of both being processes that are carried out over time. 
+The aforementioned poor time management has pushed out the completion of the narrative map and minimum 4 coded screens.
+It's tricky—so much of celebrated e-lit seems predicated on novelty, more akin to conceptual art than literature, more interested in originality of form than content of the piece. I'm obviously only a novice and there's only so much I've seen of the field, but I don't think it's for me, ultimately. It's tricky having to create a piece with a deadline when there isn't much genuine inspiration and passion carrying me forward, but then I suppose that's the challenge, then.
+
+**Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step.**
+
+
+## THU
+What is the purpose of your piece? Was there an inspiration that brought it about?
+What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?
+What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?
