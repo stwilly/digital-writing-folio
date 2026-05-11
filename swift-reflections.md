@@ -103,8 +103,18 @@ It's tricky—so much of celebrated e-lit seems predicated on novelty, more akin
 
 **Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step.**
 
+I've been encouraged to sharpen my focus with regards to what I want my piece to accomplish; the desired effect in a reader/audience. Further steps for improvement could include broadening the scope of the overall written material as well as entertaining other options for interaction and surprises beyond the basic Twine click-through experience.
+I also need to experiment and iterate the appearance of the piece, this still requires brainstorming.
 
 ## THU
-**What is the purpose of your piece? Was there an inspiration that brought it about?
-What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?
-What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?**
+**What is the purpose of your piece? Was there an inspiration that brought it about?**
+
+Taking, as I am, inspiration from mowing the lawn, my intent is to take what appears to be a straightforward simulation of a mundane task and bring depth to its contemplation, including cultural, philosophical, and moral significance. The project had slid into more a comedic tone for the bulk of the work, but I think this adds to the otherwise creepy/unsettling territory it flirts with by contrasting.
+
+**What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?**
+
+I've been advised that I could better exploit the potential of e-literature with my work. It's also been suggested that I beef up the amount of content. Granted, the latter was based on a viewing of the prototype first few pages and I think isn't entirely reflective of the rest of the piece. The first few screens establish a kind of call/response before becoming a dialogue between narrator and narratee, with the reader allowed to make choices between several dialogue options, branching in different ways. Besides, even if a work were entirely made up of screens of short lines of text, it can add up over a work, and is 'amount of content' the definition of literature? It's a style, I think. It doesn't become not-literature if it doesn't look like it, necessarily. 
+
+**What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?**
+
+Completing slides, coding prototype, publishing to GitHub. 
